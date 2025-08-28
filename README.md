@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Hammad Arshad!
+Hi, I’m Hammad Arshad!<br>
 🎓 Bachelor of Science in Artificial Intelligence (BSAI) student at Superior University, Lahore<br>🌱 Currently learning Python, Data Structures, and AI concepts<br>💡 Passionate about technology, problem-solving, and automation projects<br>🤝 Active volunteer with Alkhidmat Foundation & MGEU, contributing to youth development and IT support<br>🚀 Exploring YouTube automation, freelancing, and emerging technologies<br>⚡ Fun fact: I enjoy turning everyday problems into coding projects!
 
 
